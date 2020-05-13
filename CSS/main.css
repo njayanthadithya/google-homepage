@@ -1,0 +1,17 @@
+/*Basic Styles*/
+
+body{
+    margin : 0;
+    padding :  0;
+    font-family: 'Roboto',sans-serif;
+}
+header{
+    width: 100%;
+}
+#nav_bar{
+  float: right;
+}
+#nav_bar li{
+    display: inline-block;
+    padding: 8px;
+}
